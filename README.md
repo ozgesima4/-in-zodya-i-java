@@ -1,2 +1,2 @@
-# -in-zodya-i-java
+# cin-zodyagi-java
 çin zodyağına göre burç bulan program
